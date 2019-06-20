@@ -8,3 +8,5 @@ and how i do it, however i also look into so other sources of information to
 try to enproube my coding.
 There for I would like to thanks Simon Monk, Michael Dawson and so many others 
 from who i found the motivation to do all this.
+
+Thank you Neil and Haley for being so patient with me.
